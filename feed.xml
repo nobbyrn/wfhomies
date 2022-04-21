@@ -3,31 +3,43 @@
     <title>WFHomies</title>
     <link href="https://nobbyrn.github.io/wfhomies/feed.xml" rel="self" />
     <link href="https://nobbyrn.github.io/wfhomies" />
-    <updated>2022-04-19T13:44:10+01:00</updated>
+    <updated>2022-04-21T12:53:01+01:00</updated>
     <author>
         <name>Ryan</name>
     </author>
     <id>https://nobbyrn.github.io/wfhomies</id>
 
     <entry>
-        <title>test post</title>
+        <title>The best monitors for working from home</title>
         <author>
             <name>Ryan</name>
         </author>
         <link href="https://nobbyrn.github.io/wfhomies/test-post/"/>
         <id>https://nobbyrn.github.io/wfhomies/test-post/</id>
+            <category term="monitors"/>
 
-        <updated>2022-04-19T13:44:10+01:00</updated>
+        <updated>2022-04-21T12:53:01+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nobbyrn.github.io/wfhomies/media/posts/1/phonto-6.jpg" alt="" />
-                    this is just a test
+                        <img src="https://nobbyrn.github.io/wfhomies/media/posts/1/monitors-feature-image.jpeg" alt="" />
+                    Introduction: If you're like most people, you want to work from home as much as possible. But before you can do that, you need a good monitor to work on. Here are 9 of the best monitors for working from home. 1. ASUS VivoBook F510UA&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nobbyrn.github.io/wfhomies/media/posts/1/phonto-6.jpg" alt="" />
-                <p>this is just a test</p>
+                    <img src="https://nobbyrn.github.io/wfhomies/media/posts/1/monitors-feature-image.jpeg" alt="" />
+                <p>Introduction: If you're like most people, you want to work from home as much as possible. But before you can do that, you need a good monitor to work on. Here are 9 of the best monitors for working from home.</p>
+<p>1. ASUS VivoBook F510UA is a powerful laptop that is perfect for students, professionals and anyone who needs a powerful laptop that is portable and affordable. This laptop has a durable design, excellent performance and great battery life.</p>
+<p>2. Dell Inspiron 15 3000</p>
+<p>Dell Inspiron 15 3000 is one of the best value monitors on the market. It has a great resolution for its price and comes with a lot of features that make it great for working from home. Some of the best features of this monitor include:</p>
+<p>-It has a great resolution for its price, making it perfect for working with graphics or photos.</p>
+<p>-It comes with a lot of features that make it great for working from home, including an adjustable stand and a VGA port.</p>
+<p>4. Lenovo IdeaPad 320S-15IBR</p>
+<p>Lenovo IdeaPad 320S-15IBR is a great choice for working from home. It has a large screen size and powerful specs that make it perfect for multitasking and online streaming. Plus, the backlit keyboard makes it easy to work in low light conditions.</p>
+<p>5. Microsoft Surface Go 32GB with Windows 10 Pro (Certified Refurbished)</p>
+<p>6. Acer Predator Helios 300 G3-571-6480 16GB DDR4 VRAM GT 710MX w/FreeDos 14" DisplayPort HDMI x 2 USB C Genuine PC Parts (Refurbished)</p>
+<p>7. Apple iMac 21." 4K LED Retina Display Mid-Size Desktop Computer - Space Gray</p>
+<p>8. Apple</p>
             ]]>
         </content>
     </entry>
