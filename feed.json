@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WFHomies",
+    "description": "",
+    "home_page_url": "https://nobbyrn.github.io/wfhomies",
+    "feed_url": "https://nobbyrn.github.io/wfhomies/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ryan"
+    },
+    "items": [
+        {
+            "id": "https://nobbyrn.github.io/wfhomies/test-post/",
+            "url": "https://nobbyrn.github.io/wfhomies/test-post/",
+            "title": "test post",
+            "summary": "this is just a test",
+            "content_html": "<p>this is just a test</p>",
+            "image": "https://nobbyrn.github.io/wfhomies/media/posts/1/phonto-6.jpg",
+            "author": {
+                "name": "Ryan"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-19T13:44:10+01:00",
+            "date_modified": "2022-04-19T13:44:10+01:00"
+        }
+    ]
+}

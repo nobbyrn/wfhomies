@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>WFHomies</title>
+    <link href="https://nobbyrn.github.io/wfhomies/feed.xml" rel="self" />
+    <link href="https://nobbyrn.github.io/wfhomies" />
+    <updated>2022-04-19T13:44:10+01:00</updated>
+    <author>
+        <name>Ryan</name>
+    </author>
+    <id>https://nobbyrn.github.io/wfhomies</id>
+
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>Ryan</name>
+        </author>
+        <link href="https://nobbyrn.github.io/wfhomies/test-post/"/>
+        <id>https://nobbyrn.github.io/wfhomies/test-post/</id>
+
+        <updated>2022-04-19T13:44:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nobbyrn.github.io/wfhomies/media/posts/1/phonto-6.jpg" alt="" />
+                    this is just a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nobbyrn.github.io/wfhomies/media/posts/1/phonto-6.jpg" alt="" />
+                <p>this is just a test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
